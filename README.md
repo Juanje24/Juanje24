@@ -24,7 +24,7 @@ Actualmente están en desarrollo o a la espera de ser publicados los siguientes 
 - **Qt**: Estoy siguiendo el libro *Lazar, G., & Penea, R. (2016). Mastering Qt 5. Packt Publishing* para aprender Qt. En el repositorio correspondiente se van publicando las aplicaciones correspondientes a cada capítulo.
 
 - **Práctica de Sistemas Inteligentes**: Desarrollo de un Sistema Basado en Reglas con encadenamiento hacia atrás y factores de certeza en C++. A la aplicación se le pasa un fichero con la base de hechos y otro con la base de conocimientos y posteriormente se inicia el algoritmo que devolverá el factor de certeza de la meta indicada en la base de hechos.
-- 
+  
 - **Práctica de Servicios Telemáticos**: Desarrollo en Python de un servidor HTTP, junto con el manejo de cookies y la gestión de los mensajes de petición del usuario.
 
 ## Otros proyectos terminados ✅: 
