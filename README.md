@@ -21,8 +21,20 @@ También conozco otros como JavaScript o R, y otras habilidades como manejo avan
 
 Actualmente están en desarrollo o a la espera de ser publicados los siguientes proyectos:
 
-- **AppChat**: Aplicación desarrollada en Java que emula la funcionalidad de WhatsApp. Se han usado varios patrones de diseño, se ha implementado el Modelo Vista Controlador, y se han seguido también los patrones GRASP. Además se ha usado el modelo DAO para manejar la persistencia de objetos, junto con el uso de Sockets para manejar el intercambio simultáneo de mensajes.
-  
- ✔️ Estado del proyecto: Finalizado. Calificación: 9.8 (Se publicará cuando finalice el presente curso académico).
-  
 - **Qt**: Estoy siguiendo el libro *Lazar, G., & Penea, R. (2016). Mastering Qt 5. Packt Publishing* para aprender Qt. En el repositorio correspondiente se van publicando las aplicaciones correspondientes a cada capítulo.
+
+## Otros proyectos terminados ✅: 
+
+- **AppChat**: Aplicación desarrollada en Java que emula la funcionalidad de WhatsApp. Se han usado múltiples patrones de diseño, se ha implementado el Modelo Vista Controlador, y se han seguido también los patrones GRASP. Además se ha usado el modelo DAO para manejar la persistencia de objetos, junto con el uso de Sockets para manejar el intercambio simultáneo de mensajes y Swing para diseñar todas las ventanas de la GUI.
+  
+  Calificación: 9.8 (Se publicará cuando finalice el presente curso académico).
+
+ 
+- **NanoFiles**: Aplicación desarrollada en Java que implementa un cliente P2P para compartir ficheros dada una IP. Se implementa tanto la conexion por TCP como por UDP, además de un protocolo de aplicación propio para el intercambio de mensajes con el directorio.
+  
+  Calificación: 10
+
+- **Práctica de ALF**: Aplicaciñon que implementa un silabeador usando múltiples expresiones regulares. Además, permite obtener la entonación de la palabra y si rima con alguna introducida anteriormente, que está guardada en el diccionario que gestiona internamente la aplicación. También se puede exportar a un .csv para no perder el progreso.
+
+  Calificación: 8.5
+
