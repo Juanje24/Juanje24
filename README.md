@@ -38,9 +38,18 @@ Actualmente están en desarrollo o a la espera de ser publicados los siguientes 
   
   Calificación: 10
 
-- **Práctica de ALF**: Aplicaciñon que implementa un silabeador usando múltiples expresiones regulares. Además, permite obtener la entonación de la palabra y si rima con alguna introducida anteriormente, que está guardada en el diccionario que gestiona internamente la aplicación. También se puede exportar a un .csv para no perder el progreso.
+- **Práctica de ALF**: Aplicación que implementa un silabeador usando múltiples expresiones regulares. Además, permite obtener la entonación de la palabra y si rima con alguna introducida anteriormente, que está guardada en el diccionario que gestiona internamente la aplicación. También se puede exportar a un .csv para no perder el progreso.
 
   Calificación: 8.5
+  
+- **Práctica de AED1**: Se trata de un programa para implementar varios juegos de palabras usando estructuras de datos clásicas como las tablas *hash* o representaciones de árboles en C++.
+
+  Calificación: 8.0
+
+  -**Prácticas de AED2**: Se tratan de varios programas que resuelven problemas mediante algoritmos que usan técnicas como Divide y Vencerás, Avance Rápido o Backtracking.
+
+  Calificación: 9.39
+  
 
 
 
