@@ -42,3 +42,6 @@ Actualmente están en desarrollo o a la espera de ser publicados los siguientes 
 
   Calificación: 8.5
 
+
+
+**DISCLAIMER**: No me hago responsable de las repercusiones académicas que pueda acarrear la copia parcial o total de los proyectos que se encuentran en este directorio. De usar los códigos fuente para las prácticas sin los créditos correspondientes, algo que está en contra de las licencias que se encuentran en cada proyecto, las consecuencias las deberá afrontar únicamente el alumno que realice un uso fraudulento de los mismos.
