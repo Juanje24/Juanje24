@@ -23,6 +23,10 @@ Actualmente están en desarrollo o a la espera de ser publicados los siguientes 
 
 - **Qt**: Estoy siguiendo el libro *Lazar, G., & Penea, R. (2016). Mastering Qt 5. Packt Publishing* para aprender Qt. En el repositorio correspondiente se van publicando las aplicaciones correspondientes a cada capítulo.
 
+- **Práctica de Sistemas Inteligentes**: Desarrollo de un Sistema Basado en Reglas con encadenamiento hacia atrás y factores de certeza en C++. A la aplicación se le pasa un fichero con la base de hechos y otro con la base de conocimientos y posteriormente se inicia el algoritmo que devolverá el factor de certeza de la meta indicada en la base de hechos.
+- 
+- **Práctica de Servicios Telemáticos**: Desarrollo en Python de un servidor HTTP, junto con el manejo de cookies y la gestión de los mensajes de petición del usuario.
+
 ## Otros proyectos terminados ✅: 
 
 - **AppChat**: Aplicación desarrollada en Java que emula la funcionalidad de WhatsApp. Se han usado múltiples patrones de diseño, se ha implementado el Modelo Vista Controlador, y se han seguido también los patrones GRASP. Además se ha usado el modelo DAO para manejar la persistencia de objetos, junto con el uso de Sockets para manejar el intercambio simultáneo de mensajes y Swing para diseñar todas las ventanas de la GUI.
