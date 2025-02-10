@@ -2,7 +2,7 @@
 
 ¡Hola! Actualmente estoy estudiando 3º curso de Ingeniería Informática en la Universidad de Murcia. Mi nota media en el expediente actualmente es de: 8.73
 
-Durante estos 3 años me he dado cuenta que lo que más me apasiona es la Ingeniería del Software, y todo lo que tenga que ver con ello. El desarrollo de aplicaciones ha sido mi principal pasión y es a lo que me quiero dedicar en el futuro.
+Durante estos 3 años me he dado cuenta que lo que más me apasiona es la Ingeniería del Software, y todo lo que tenga que ver con ello. El desarrollo de aplicaciones ha sido mi principal pasión y es a lo que aspiro a dedicarme en el futuro.
 
 ## Mis habilidades:
 
