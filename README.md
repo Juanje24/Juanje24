@@ -27,6 +27,8 @@ Actualmente están en desarrollo o a la espera de ser publicados los siguientes 
   
 - **Práctica de Servicios Telemáticos**: Desarrollo en Python de un servidor HTTP, junto con el manejo de cookies y la gestión de los mensajes de petición del usuario.
 
+- **Angular**: Estoy empezando a manejar aplicaciones web usando Angular para la creación de componentes
+
 ## Otros proyectos terminados ✅: 
 
 - **AppChat**: Aplicación desarrollada en Java que emula la funcionalidad de WhatsApp. Se han usado múltiples patrones de diseño, se ha implementado el Modelo Vista Controlador, y se han seguido también los patrones GRASP. Además se ha usado el modelo DAO para manejar la persistencia de objetos, junto con el uso de Sockets para manejar el intercambio simultáneo de mensajes y Swing para diseñar todas las ventanas de la GUI.
